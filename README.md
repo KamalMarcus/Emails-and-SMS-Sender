@@ -1,5 +1,5 @@
 # Emails-and-SMS-Sender
-This as an Email, and SMS sender application using Java programming language / Netbeans IDE.
+This's an Email, and SMS sender application using Java programming language / Netbeans IDE.
 It simlply stores your contacts information and sends to them an Email or an SMS message .
 I used the sendlySMS api for sending SMSs .
 I also used Mandril for sending Emails .
